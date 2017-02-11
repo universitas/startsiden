@@ -1,4 +1,10 @@
-name: Universitas startside
-title: Universitas startside
-description: Finn det du leter etter
-theme: jekyll-theme-slate
+# Site settings
+title: Startsiden
+tag_text: Startsiden
+description: PåUniversitas Startsiden så finner ma informasjon, dokumenter og lenker til diverse Universitas ressurser..
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
