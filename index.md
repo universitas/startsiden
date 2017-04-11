@@ -12,4 +12,4 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [Sideoversikt magasinet]({{ site.url }}/assets/sideoversikt_magasin.pdf)
 
 ## Diverse lenker
-- [Prodsys](http://universitas.uio.no/admin/produser/)
+- [Prodsys](http://oldwww.universitas.uio.no/admin/produser/)
