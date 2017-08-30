@@ -16,14 +16,10 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [kildekoden for denne siden](https://github.com/universitas/universitas.github.io)
 
 
-## Wordmaler:
-{%- for file in site.static_files -%}
-- [{{ file.name }}]({{ file.path }}) {{ file.extname }}
-{%- endfor -%}
-
 ## Wordmaler 2:
-{% for file in site.static_files %}
-{% if file.extname == ".doc" %}
+{%- for file in site.static_files -%}
+{%- if file.extname == ".doc" -%}
 - [{{ file.name }}]({{ file.path }})
-{% endif %}
-{% endfor %}
+
+{%- endif -%}
+{%- endfor -%}
