@@ -17,6 +17,13 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 
 
 ## Wordmaler:
+{%- for file in site.static_files -%}
+- [{{ file.name }}]({{ file.path }}) {{ file.extname }}
+{%- endfor -%}
+
+## Wordmaler 2:
 {% for file in site.static_files %}
+{% if file.extname = ".doc" %}
 - [{{ file.name }}]({{ file.path }})
+{% endif %}
 {% endfor %}
