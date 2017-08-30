@@ -1,8 +1,18 @@
-## Filer
-Her finner du diverse filer. Alt fra timelister til sideoversikt.
+## Startsiden [unversitas startsiden](https://universitas.github.io/)
 
-- [Timeliste]({{ site.url }}/assets/timeliste.pdf)
-- [Sideoversikt]({{ site.url }}/assets/sideoversikt.pdf)
-- [Sideoversikt magasinet]({{ site.url }}/assets/sideoversikt_magasin.pdf)
+Interne ressurser for Universitas.
 
-## Diverse lenker
+# Hvordan funker dette?
+
+Dette er en statisk blog laget med jekyll.
+
+Les dokumentasjon her:
+
+- [Jekyll](https://jekyllrb.com/docs/home/)
+- [Jekyll + GitHub static pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+
+# Hva er filene?
+
+- README.md : denne teksten
+- index.md : forsiden på universitas.github.io
+- assets : legg pdf og andre filer her
