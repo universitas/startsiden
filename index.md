@@ -23,7 +23,7 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 
 ## Wordmaler 2:
 {% for file in site.static_files %}
-{% if file.extname = ".doc" %}
+{% if file.extname == ".doc" %}
 - [{{ file.name }}]({{ file.path }})
 {% endif %}
 {% endfor %}
