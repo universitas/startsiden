@@ -11,15 +11,14 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [Sideoversikt]({{ site.url }}/pdf/sideoversikt.pdf)
 - [Sideoversikt magasinet]({{ site.url }}/pdf/sideoversikt_magasin.pdf)
 
-## Diverse lenker
+## Diverse lenker:
 - [Prodsys](http://oldwww.universitas.uio.no/admin/produser/)
 - [kildekoden for denne siden](https://github.com/universitas/universitas.github.io)
 
 
-## Wordmaler 2:
+## Wordmaler:
 {%- for file in site.static_files -%}
-{%- if file.extname == ".doc" -%}
+{% if file.extname == ".doc" %}
 - [{{ file.name }}]({{ file.path }})
-
 {%- endif -%}
 {%- endfor -%}
