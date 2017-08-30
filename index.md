@@ -17,7 +17,8 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 
 
 ## Wordmaler:
-{% assign docs = site.static_files | where: "extname", "doc" %}
-{% for file in docs %}
+{% for file in site.static_files %}
+{% if file.extname == ".doc" %}
 - [{{ file.name }}]({{ file.path }})
+{% endif %}
 {% endfor %}
