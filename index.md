@@ -16,7 +16,8 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [kildekoden for denne siden](https://github.com/universitas/universitas.github.io)
 
 
-## Wordmaler
+## Wordmaler :
 {% for file in site.static_files %}
-  <a href="{{ file.path }}" />{{ file..basename }}</a>
+  {{ file }}
+  <a href="{{ file.path }}" />{{ file.basename }}</a>
 {% endfor %}
