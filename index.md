@@ -7,10 +7,16 @@ layout: default
 ## Filer
 Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til sideoversikt.
 
-- [Timeliste]({{ site.url }}/assets/timeliste.pdf)
-- [Sideoversikt]({{ site.url }}/assets/sideoversikt.pdf)
-- [Sideoversikt magasinet]({{ site.url }}/assets/sideoversikt_magasin.pdf)
+- [Timeliste]({{ site.url }}/pdf/timeliste.pdf)
+- [Sideoversikt]({{ site.url }}/pdf/sideoversikt.pdf)
+- [Sideoversikt magasinet]({{ site.url }}/pdf/sideoversikt_magasin.pdf)
 
 ## Diverse lenker
 - [Prodsys](http://oldwww.universitas.uio.no/admin/produser/)
 - [kildekoden for denne siden](https://github.com/universitas/universitas.github.io)
+
+
+## Wordmaler
+{% for doc in site.wordfiles %}
+  <a href="{{ doc.url }}" />{{ doc.basename }}</a>
+{% endfor %}
