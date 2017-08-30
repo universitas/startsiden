@@ -17,6 +17,6 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 
 
 ## Wordmaler
-{% for doc in site.wordfiles %}
-  <a href="{{ doc.url }}" />{{ doc.basename }}</a>
+{% for file in site.static_files %}
+  <a href="{{ file.path }}" />{{ file..basename }}</a>
 {% endfor %}
