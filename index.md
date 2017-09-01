@@ -12,7 +12,9 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [Sideoversikt magasinet]({{ site.url }}/pdf/sideoversikt_magasin.pdf)
 
 ## Diverse lenker:
-- [Prodsys](http://oldwww.universitas.uio.no/admin/produser/)
+- [Medarbeiderliste](https://docs.google.com/spreadsheets/d/1uxtmDUd8Z6PkeF9SHpDPhhEL8AxZ0yUskgcLLqDF6x4/edit#gid=0)
+- [Nytt Prodsys](http://universitas.no/prodsys/)
+- [Gammelt Prodsys](http://oldwww.universitas.uio.no/admin/produser/)
 - [kildekoden for denne siden](https://github.com/universitas/universitas.github.io)
 
 
