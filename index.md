@@ -14,7 +14,7 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 ## Diverse lenker:
 - [Medarbeiderliste](https://docs.google.com/spreadsheets/d/1uxtmDUd8Z6PkeF9SHpDPhhEL8AxZ0yUskgcLLqDF6x4/edit?usp=sharing&authkey=CL2FxbQC)
 - [Nytt Prodsys](http://universitas.no/prodsys/)
-- ~[Gammelt Prodsys](http://oldwww.universitas.no/admin/produser/)~
+- ~~[Gammelt Prodsys](http://oldwww.universitas.no/admin/produser/)~~
 - [Slack](https://universitas.slack.com/messages)
 
 ## Tekniske lenker universitas.no
