@@ -19,8 +19,8 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 
 ## Tekniske lenker universitas.no
 
-- [vps hos linode.com](https://manager.linode.com/linodes/dashboard/tassen-docker) passordbeskyttet
-- [feilmeldinger hos sentry.io](https://sentry.io/universitas/) passordbeskyttet
+- [vps hos linode.com](https://manager.linode.com/linodes/dashboard/tassen-docker) <sup>passordbeskyttet
+- [feilmeldinger hos sentry.io](https://sentry.io/universitas/) <sup>passordbeskyttet
 - [docker hub](https://hub.docker.com/u/universitas/)
 
 ### [universitas på github](https://github.com/universitas/)
