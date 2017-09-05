@@ -18,12 +18,14 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [Slack](https://universitas.slack.com/messages)
 
 ## Tekniske lenker universitas.no
-
+- [google analytics](https://analytics.google.com/analytics/web/)
+- [facebook developer](https://developers.facebook.com/apps/1936304073248701/dashboard/)
+- [google adsense](https://www.google.com/adsense/)
 - [vps hos linode.com](https://manager.linode.com/linodes/dashboard/tassen-docker) <sup>passordbeskyttet
 - [feilmeldinger hos sentry.io](https://sentry.io/universitas/) <sup>passordbeskyttet
 - [docker hub](https://hub.docker.com/u/universitas/)
 
-### [universitas på github](https://github.com/universitas/)
+## [universitas på github](https://github.com/universitas/)
 - [kildekode universitas.no og prodsys](https://github.com/universitas/universitas.no)
 - [skript for univ-desken og indesign](https://github.com/universitas/tassendesken)
 - [kildekoden for startsiden](https://github.com/universitas/universitas.github.io)
