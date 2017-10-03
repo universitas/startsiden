@@ -12,8 +12,8 @@ Her finner du diverse dokumenter du kanskje trenger. Alt fra timelister til side
 - [Sideoversikt magasinet]({{ site.url }}/pdf/sideoversikt_magasin.pdf)
 
 ## Diverse lenker:
+- [Prodsys](http://universitas.no/prodsys/)
 - [Medarbeiderliste](https://docs.google.com/spreadsheets/d/1uxtmDUd8Z6PkeF9SHpDPhhEL8AxZ0yUskgcLLqDF6x4/edit?usp=sharing&authkey=CL2FxbQC)
-- [Nytt Prodsys](http://universitas.no/prodsys/)
 - [USIT it-support](http://www.uio.no/tjenester/it/kontakt/lokal-it/andre-enheter/it-universitas.html)
 - [Slack](https://universitas.slack.com/messages)
 
